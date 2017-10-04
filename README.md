@@ -1,5 +1,5 @@
 # OutputChanger
-<img align="right" src="OutputChanger/Resources/next.ico" width="128" style="margin:0px 30px">
+<img align="right" src="OutputChanger/Resources/next_black.ico" width="128" style="margin:0px 30px">
 Changes default audio device and primary display with hotkeys. Hotkeys can be changed by right clicking tray icon.
 
 Standard hotkeys are:
