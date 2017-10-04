@@ -137,8 +137,8 @@
     <Content Include="EndPointController.exe">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <None Include="Resources\next_black.ico" />
     <Resource Include="Resources\next.ico" />
-    <Resource Include="Resources\cable.ico" />
     <Resource Include="Resources\gear.ico" />
     <Resource Include="Resources\exit.ico" />
   </ItemGroup>
