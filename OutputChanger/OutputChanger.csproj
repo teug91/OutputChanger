@@ -49,7 +49,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Resources\next.ico</ApplicationIcon>
+    <ApplicationIcon>Resources\next_black.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Hardcodet.Wpf.TaskbarNotification, Version=1.0.5.0, Culture=neutral, processorArchitecture=MSIL">
@@ -137,7 +137,8 @@
     <Content Include="EndPointController.exe">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <None Include="Resources\next_black.ico" />
+    <Resource Include="next_black.ico" />
+    <Resource Include="Resources\next_black.ico" />
     <Resource Include="Resources\next.ico" />
     <Resource Include="Resources\gear.ico" />
     <Resource Include="Resources\exit.ico" />
