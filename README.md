@@ -7,7 +7,7 @@ Standard hotkeys are:
 * Ctrl + F9 for display.
 * Ctrl + F10 for audio.
 
-I use this program in combination with [reWASD](https://www.rewasd.com/) so i can change default audio device and primary display with the paddles from my XBONE Elite gamepad from my couch. 
+I use this program in combination with [reWASD](https://www.rewasd.com/) so I can change default audio device and primary display with the paddles from my XBONE Elite gamepad from my couch. 
 
 ## Credit
 * [Hardcodet.NotifyIcon.Wpf](http://www.hardcodet.net/wpf-notifyicon) - Used for tray icon
