@@ -22,7 +22,7 @@ namespace OutputChanger
         }
 
         /// <summary>
-        /// Gets autostart setting.
+        /// Gets autostart setting. Fixes path, If path in registry key is wrong.
         /// </summary>
         /// <returns>True if activated, null if no access to registry.</returns>
         internal static bool? GetAutoStart()

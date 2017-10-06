@@ -19,6 +19,7 @@ namespace OutputChanger.Input
         public HotKeyListener()
         {
             keyCombos = SettingsManager.GetHotKeys();
+            SettingsManager.GetAutoStart();
 
             displayHotKey = new HotKey(keyCombos[0].key, keyCombos[0].mod, OnDisplayHotKeyHandler);
             soundHotKey = new HotKey(keyCombos[1].key, keyCombos[1].mod, OnSoundHotKeyHandler);
